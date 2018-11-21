@@ -1,0 +1,31 @@
+h1 { 
+    font-family: impact; 
+    font-weight: bold;
+    font-size: 100px;
+    text-align: center;
+    background: black;
+    color: darkgray;
+    margin: 0%;
+    padding top: 5%;
+    padding bottom: 10%;
+ }
+h2 {
+    color: black;
+    font-size: 40px;
+    font-family: impact;
+ }
+ body {
+    background: darkgray;
+    margin: 0%;
+    padding-left: 10%;
+    padding-right: 10%;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+p { 
+    color: teal;
+    font size: 20px;
+}
+a:any-link {
+    color: purple;
+} 

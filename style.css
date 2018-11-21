@@ -11,8 +11,9 @@ h1 {
  }
 h2 {
     color: black;
-    font-size: 40px;
+    font-size: 60px;
     font-family: impact;
+    text-align: center
  }
  body {
     background: darkgray;
@@ -29,3 +30,14 @@ p {
 a:any-link {
     color: purple;
 } 
+img {
+    padding: 20px;
+    float: left
+}
+p { 
+    padding: 20px;
+    text-align: wrap;
+}
+.secondsection {
+    text-align: wrap;
+}
